@@ -1,7 +1,7 @@
 HELP.md
 .idea/
 .gradle
-.postgres_data/
+postgres_data/
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
